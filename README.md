@@ -1,2 +1,2 @@
 # Bizbot
-My final year project. A chabot and desktop application to optimize e-business operations like placing and tracking orders and more.
+My final year project. Engineered a comprehensive desktop application for business owners to efficiently manage operations and a chatbot for customers to place and track orders, utilizing Java, Python, JavaFx, JasperSoft Studio, DialogFlow, FastAPI, and MySQL technologies.
