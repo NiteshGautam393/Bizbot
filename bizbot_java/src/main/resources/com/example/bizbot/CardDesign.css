@@ -1,0 +1,13 @@
+.card{
+    -fx-background-color: #ffffff;
+}
+.card_shadow{
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 6,0,0,0);
+}
+.card_btn{
+    -fx-background-color:  linear-gradient(to bottom right, #3f8ab5, #dc93c1);
+    -fx-cursor: HAND;
+}
+.card_btn:hover{
+     -fx-background-color: #3f8fe4;
+}
